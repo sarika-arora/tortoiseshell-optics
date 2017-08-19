@@ -74,3 +74,15 @@ ul li {
   font-weight: bold;
   line-height: 1.2;
 }
+
+footer {
+  display: flex;
+  max-height: 9.5rem;
+  padding: 4rem;
+  background-color: azure;
+}
+
+footer img {
+  height: 1.5rem;
+  margin-right: 1rem;
+}
