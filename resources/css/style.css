@@ -75,6 +75,36 @@ ul li {
   line-height: 1.2;
 }
 
+.supporting {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 5rem;
+}
+
+.service {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  margin: 3rem;
+  width: 5rem;
+  height: 8rem;
+}
+
+.paper-icon {
+  width: 3.5rem;
+}
+
+.ruler-icon , .truck-icon {
+  width: 5rem;
+}
+
+section p {
+  display: flex;
+}
+
+
 footer {
   display: flex;
   max-height: 9.5rem;
