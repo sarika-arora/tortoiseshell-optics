@@ -185,9 +185,92 @@ nav .company-name {
 
 ul li {
   display: inline;
-  padding: 0 1rem;
+  padding: 0 2rem;
 }
 
+nav {
+  max-width: 100%;
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.nav-logo {
+  margin-left: 2rem;
+}
+
+.tagline {
+  padding: 1rem 4rem;
+  margin-top: 9rem;
+  margin-right: 0;
+  width: 100%;
+}
+
+.tagline h1 {
+  font-size: 1rem;
+  line-height: 1.2;
+  text-align: center;
+}
+
+.supporting {
+  display: block;
+  margin-top: 3.77rem;
+}
+
+.service {
+  display: block;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.service p {
+  font-size: 0.77rem;
+  padding-top: 1rem;
+  margin: 0 auto;
+}
+
+.ruler-icon , .truck-icon {
+  margin-top: 1.54rem;
+}
+
+.info {
+
+  width: 100%;
+  margin-bottom: 4rem;
+}
+
+.title {
+  font-size: 1rem;
+  font-weight: bold;
+  background-color: cadetblue;
+  color: white;
+  margin-bottom: 1rem;
+  text-align: center;
+  max-width: 100%
+}
+
+.philosophy {
+  margin-bottom: 4rem;
+  margin-top: 3.77rem;
+}
+
+.info p {
+  font-size: 0.77rem;
+  padding: 0.25rem;
+}
+
+footer {
+  width: 100%;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.footer-logo {
+  margin: auto;
+}
+
+.copyright {
+  display: none;
+}
 
 }
 
